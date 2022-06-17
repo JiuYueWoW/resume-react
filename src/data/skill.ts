@@ -2,9 +2,10 @@ const SkillData = [
     {
       title: 'Web',
       item: [
-        "熟悉 Vue、React等前端框架的使用",
+        "熟悉 Vue、React前端框架",
+        "熟悉Vite插件开发",
         "掌握 UNI-APP、Taro 开发夸端应用",
-        "掌握微信小程序及微信支付的开发与部署",
+        "掌握微信小程序开发",
       ]
     },{
       title: 'PHP',
@@ -18,9 +19,8 @@ const SkillData = [
       title: 'Golang',
       item: [
         "掌握 go语言 的基本知识",
-        "熟悉 Gin、Beego等Web框架的使用",
+        "熟悉 Gin 等Web框架的使用",
         "熟悉 goroutine、channel使用",
-        "了解 微服务、gRPC、K8S",
         "了解 kratos微服务框架"
       ]
     },  {
@@ -35,7 +35,6 @@ const SkillData = [
         "熟悉常用的Linux命令及云服务器常用操作",
         "熟悉LNPM配置与使用",
         "熟悉Docker及镜像的基本使用",
-        "熟练使用 Git 进行代码管理、 Markdown进行文档编写",
       ]
     }
 ]
